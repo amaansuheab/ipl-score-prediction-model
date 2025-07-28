@@ -120,7 +120,13 @@ Deploy the model as a web app using Streamlit or Flask.
 
 Add real-time data fetching for live IPL matches.
 
-Author
-amaansuheab
+**Amaan Suheab**  
+GitHub: [https://github.com/amaansuheab](https://github.com/amaansuheab)
+
+---
+
+## **License**
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 Contributions and suggestions are welcome!
